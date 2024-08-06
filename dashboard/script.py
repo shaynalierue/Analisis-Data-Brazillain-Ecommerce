@@ -20,7 +20,7 @@ nav_options = ["Home", "Dataset", "Customer Analysis" , "Geolocation Analysis",
 
 
 # Create a sidebar for navigation
-st.sidebar.image("assets/sidebar_logo.png", use_column_width=True)
+st.sidebar.image("dashboard/assets/sidebar_logo.png", use_column_width=True)
 selected_option = st.sidebar.selectbox("Navigate to", nav_options)
 
 # ---------------------------------- Define the content for each page----------------------------------------------------------------
