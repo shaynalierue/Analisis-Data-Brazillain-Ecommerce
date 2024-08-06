@@ -7,6 +7,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 
 # Set the page title and icon
+
 st.set_page_config(page_title="Olist E-Commerce Data Analysis Dashboard", page_icon="🛍️")
 
 # Load the dataset
