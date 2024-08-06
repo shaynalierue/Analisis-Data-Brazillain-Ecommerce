@@ -29,7 +29,7 @@ if selected_option == "Home":
     
     # Display the main title
     st.title("Welcome to the Olist E-Commerce Data Analysis Dashboard 📊")
-    st.image("assets/home_picture.png")
+    st.image("dashboard/assets/home_picture.png")
     # Display subtitles and sections
     st.markdown("##### Discover Insights from Brazil's Leading Marketplace")
     st.write("")
