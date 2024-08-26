@@ -2,7 +2,8 @@
 Analysis of Brazilian E-commerce Data Using Python and Streamlit Framework
 
 📍For fast access : https://brazillian-ecommerce-analysis-dashboards.streamlit.app/<br>
-📍This dataset based on [kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+📍This dataset based on [kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)<br>
+📍Website Documentation: https://scorue.notion.site/Dashboard-Analysis-of-Brazilian-E-commerce-Data-Using-Python-and-Streamlit-Framework-Fulgencia-Sha-8f0000f8ef6a4a0ea76756793c39ef45?pvs=4
 
 ## 📌 About 
 This project aims to analyze a public dataset from Olist, a Brazilian e-commerce company. The dataset contains details about customer orders, products, payments, reviews, and other related information. The objective is to derive valuable insights from the data to enhance business strategies and improve customer experience.
