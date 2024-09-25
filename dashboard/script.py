@@ -644,7 +644,7 @@ elif selected_option == "RFM Analysis":
     By using RFM analysis, businesses can score each customer based on these three factors. This helps businesses to segment customers into categories such as loyal customers, those who need attention, or those who are almost inactive, allowing targeted marketing efforts and appropriate offers.
     """)
 
-    orders_df = pd.read_csv('data\orders_dataset.csv')
+    orders_df = pd.read_csv('data/orders_dataset.csv') 
     orders_df["order_purchase_timestamp"] = pd.to_datetime(orders_df["order_purchase_timestamp"])
 
     # Calculate total price for each order
